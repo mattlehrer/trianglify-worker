@@ -1,7 +1,7 @@
 name = "trianglify-worker"
-type = "javascript"
+type = "webpack"
 
-account_id = ""
+account_id = "97afe8e2eef73ef6c4b8c9f3be7156b0"
 workers_dev = true
 route = ""
 zone_id = ""
